@@ -8,6 +8,22 @@ light blue: #1c5380
 .fundo_azul {
   background-color: #4f7699;
   margin: 0px;
+  display: flex;
+}
+
+.imagem_instagram {
+  position: relative;
+  left: 800px;
+}
+
+.box {
+  float: left;
+  margin: 1.858736059%;
+  width: 29.615861214%;
+}
+
+.box-set{
+  display: flex;
 }
 
 .img_Phone {
@@ -30,3 +46,10 @@ body {
   background-color: white;
 }
 
+.area {
+  background-color: green;
+  color: black;
+  width: 400px;
+  height: 400px;
+
+}
